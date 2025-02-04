@@ -1,6 +1,3 @@
-Certainly! A `Learn.md` file is a great way to explain the purpose of each file and the code within it, especially for beginners. Below is a detailed **`Learn.md`** that explains every file and its contents in your project from a beginner's perspective.
-
----
 
 # Learn.MD: Understanding the Codebase
 

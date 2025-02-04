@@ -1,7 +1,3 @@
-Certainly! A well-structured `README.md` file is essential for documenting your project, explaining its purpose, and providing instructions on how to set it up and use it. Below is a **proper `README.md`** for your Express API application.
-
----
-
 # Express API with JWT Authentication
 
 This is a simple RESTful API built using **Express.js** and **Node.js**. The API supports user registration, login, and CRUD operations (Create, Read, Update, Delete) with authentication handled via **JSON Web Tokens (JWT)**. It also uses **Nodemon** for automatic server restarts during development.
